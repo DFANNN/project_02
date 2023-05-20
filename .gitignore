@@ -1,0 +1,5 @@
+#忽略index.css 这个文件
+index.css
+
+#忽略text文件夹目录下的所有文件
+text/
